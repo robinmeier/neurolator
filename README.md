@@ -1,2 +1,2 @@
 # neurolator
-Decode EEG data files produced by Neuroscope
+Decode neurophysiological data files produced by Neuroscope: http://neurosuite.sourceforge.net/
